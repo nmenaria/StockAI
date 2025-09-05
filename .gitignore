@@ -1,0 +1,18 @@
+# Ignore environment files
+.env
+.env.*
+*.env
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+
+# Ignore virtual environments
+.venv/
+venv/
+
+# Ignore Streamlit session data
+.streamlit/
+
+# Ignore charts generated locally
+*.png

@@ -1,0 +1,12 @@
+langchain
+langgraph
+langchain-openai
+langchain-google-genai
+yfinance
+yahooquery
+pandas
+streamlit
+python-dotenv
+matplotlib
+crewai
+google-generativeai
